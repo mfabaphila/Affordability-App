@@ -1,0 +1,12 @@
+#red-line{
+  color: blueviolet;
+  height: 3px;
+  width: 100%;
+  background-color: antiquewhite;
+}
+
+.main-section{
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+}
